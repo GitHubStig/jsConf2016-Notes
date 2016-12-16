@@ -15,6 +15,7 @@
 ## Ghost in the machine (Kelsy digital Nomad)
 ### Kelsey Breseman
 #### <https://www.youtube.com/watch?v=H52HezWtmm4>
+![](https://pbs.twimg.com/media/CzRen8-UkAAY5x0.jpg:large)
 - How to talk to hardware
 - Javascript firmware in 30 minutes
 - made Tessel (node API for physical world)
@@ -26,6 +27,7 @@
 ## DevTools of the future
 ### Kenneth from Microsoft (Program Manager)
 #### <https://www.youtube.com/watch?v=KxRX_HRGRo4>
+![](https://pbs.twimg.com/media/CzIluMYUUAAM9ri.jpg:large)
 - "In a few years, users won't know they are using a browser"
 - Full stack developer nirvana
 - Browser <-> Debugger( VSCODE ) <-> Node
@@ -35,6 +37,7 @@
 ---
 ## Bootstrap a live streaming React Web App
 ### HeyLi from Tencent
+![](https://pbs.twimg.com/media/CyFFBxyUUAQGOAy.jpg:large)
 - Why Html5 over native
   - (I think opens links directly to 'other app' )
   - Promotion Activity
@@ -48,6 +51,7 @@
 ## Maze of the rats
 ### Simon Swain <https://github.com/simonswain>
 #### https://www.youtube.com/watch?v=-IvDnvtJ93s
+![](https://pbs.twimg.com/media/CzhfVZYUcAAXql0.jpg:large)
 - <https://ratsofthemaze.com/>
 - teach the algorithm of how to code a random maze
 - show us how to code a search algorithm (BFS, DFS)
@@ -62,6 +66,7 @@
 ## Running your JS app for years on a coin cell
 ### ARM Internet of Things - Jan Jongboom from ARM
 #### <https://www.youtube.com/watch?v=3HLRwcVqgFE>
+![](https://pbs.twimg.com/media/Cye7Tm5UoAAQ4pP.jpg:large)
 - <http://www.noderockets.com/>
 - [Jerryscript](http://jerryscript.net/)
 - <https://github.com/armmbed/mbed-js-example>
@@ -78,6 +83,7 @@
 ## The API in 2017
 ### Tyson Hackwood and Hemanth HM
 #### <https://www.youtube.com/watch?v=bHaH1Trqa-4>
+- ![](https://pbs.twimg.com/media/CyFo2LlUsAAvNLn.jpg:large)
 - Tyson from Brantree/Paypal, Hemanth from Paypal
 - serving ads via websocket which cannot be blocked by adblocker
   - XMPP
@@ -85,6 +91,7 @@
 ---
 ## Stack Overflow - High Perf Achitecture
 ### Marco Ceconi
+![](https://pbs.twimg.com/media/CyF7-u0UAAAurca.jpg:large)
 - Durability
 - Utility
 - Beauty
@@ -105,7 +112,7 @@
 ## { Live : JS }
 ### Ruth John, Martin Schuhfuss, Matt McKegg
 #### <https://www.youtube.com/watch?v=Ody93kpAjAY&list=PL37ZVnwpeshFn7VjMHjenn8niUTYNe8O7>
-- ![](https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-9/15135898_983771505060266_3489954584104811876_n.jpg?oh=e09f20ab9cea587de3174ea1d9a9fc7d&oe=58B227BD)
+![](https://scontent-kul1-1.xx.fbcdn.net/v/t1.0-9/15135898_983771505060266_3489954584104811876_n.jpg?oh=e09f20ab9cea587de3174ea1d9a9fc7d&oe=58B227BD)
 - <http://slides.com/martinschuhfuss/jsconfasia-2016#/>
 
 ---
@@ -113,6 +120,7 @@
 ## GPU.JS - GPU Accelerated JavaScript
 ### Fazli Sapuan & Eugene Cheah @PicoCreator
 #### <https://www.youtube.com/watch?v=nUAZxpE9s9w>
+![](https://pbs.twimg.com/media/Czr1wxIVQAAjAkQ.jpg:large)
 - gpu.min.js
 - nobody writes webgl programs
  - 2d : pixi.js
@@ -170,6 +178,7 @@ function(x) {
 ## Applying the magic of Neural Networks
 ### Lian Li @CHIMNEY42 - Datenfreunde
 #### <https://www.youtube.com/watch?v=rZ_8xTX1LU4>
+![](https://pbs.twimg.com/media/Czch8mwUUAA1_Er.jpg:large)
 - Machine learning with Node.js
 - Conclusion
   - work incrementally
@@ -189,6 +198,7 @@ function(x) {
 ## Wombat Driven Understanding (NPM spelled upside-down WDU)
 ### Raquel Veléz - works at caltech, mit and npm
 #### <https://youtu.be/7MbXsRS-ZLg>
+![](https://pbs.twimg.com/media/CzSWfwmUoAEjpX7.jpg:large)
 - (npm is stronk!)
 - slides [here](https://speakerdeck.com/rockbot/wombat-driven-understanding-an-interactive-guide-to-using-npm)
 
@@ -196,6 +206,7 @@ function(x) {
 ## Bundling With H2 Server Push
 ### Sebastian Deckers
 #### <https://youtu.be/BPcjN_1qsdA>
+![](https://pbs.twimg.com/media/Cyq0UtGUUAAmcB3.jpg:large)
 - bundling at the protocol layer
 - cache digest, sent from browser to tell sever what not to send
   - save bandwidth
@@ -217,6 +228,7 @@ function(x) {
 ## Node.js version
 ### Myles Borins from IBM
 #### <https://youtu.be/3gkm7oafWxs>
+![](https://pbs.twimg.com/media/CzsriuKUAAAE8mb.jpg:large)
 - Smoke testing saves the day before release hits user land
 
 ---
@@ -247,6 +259,7 @@ function(x) {
 ## Exploring Future Node
 ### Yosuke Furukawa working at Recruit Technologies
 #### <https://youtu.be/m1LxOLAFHSo>
+![](https://pbs.twimg.com/media/Czxa4kCUoAA8Y9R.jpg:large)
 - <https://speakerdeck.com/yosuke_furukawa/exploring-future-node>
 - organizer/leader node festival (japan)
 - creator of <http://hexi.pics>
