@@ -106,6 +106,8 @@
 --
 ## Bridging Connections
 ### Chee An
+#### https://www.youtube.com/watch?v=V0dKzbhtHpQ
+![](https://pbs.twimg.com/media/Cz2_1MnVIAEE8wm.jpg:large)
 - Thank you.
 
 ---
