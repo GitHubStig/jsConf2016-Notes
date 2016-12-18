@@ -219,6 +219,8 @@ function(x) {
 ---
 ## JS in the Enterprise
 ### Ashwin Vombatkere
+#### https://www.youtube.com/watch?v=loh8MarYBfw
+![](https://pbs.twimg.com/media/Cz77mxdVEAAoffC.jpg:large)
 - unit test your non-functional business logics
 - JS Churn causes alot of rewrite
 
