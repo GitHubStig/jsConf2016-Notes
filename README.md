@@ -83,7 +83,7 @@
 ## The API in 2017
 ### Tyson Hackwood and Hemanth HM
 #### <https://www.youtube.com/watch?v=bHaH1Trqa-4>
-- ![](https://pbs.twimg.com/media/CyFo2LlUsAAvNLn.jpg:large)
+![](https://pbs.twimg.com/media/CyFo2LlUsAAvNLn.jpg:large)
 - Tyson from Brantree/Paypal, Hemanth from Paypal
 - serving ads via websocket which cannot be blocked by adblocker
   - XMPP
