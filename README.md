@@ -239,6 +239,8 @@ function(x) {
 ---
 ## Coding Chat Bot
 ### Kahwee Teng (singaporean working in SF)
+#### https://www.youtube.com/watch?v=c_hmwFwvO0U
+![](https://pbs.twimg.com/media/Cz735TwUsAA_r1W.jpg)
 - <https://speakerdeck.com/kahwee/coding-chatbots-in-node-dot-js>
 - chat bot is another way to get to your users
 - use <https://requestb.in>
