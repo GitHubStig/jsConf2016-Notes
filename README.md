@@ -168,6 +168,7 @@ function(x) {
 ---
 ## From Zero to Binary Search Tree
 ### James Kyle from Facebook
+#### https://www.youtube.com/watch?v=bM5Wfmh9i5k
 ![](https://pbs.twimg.com/media/CyJ-ImOUcAAkwsO.jpg)
 - Yarn
 - FlowType
