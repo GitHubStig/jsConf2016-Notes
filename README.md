@@ -173,7 +173,7 @@ function(x) {
 ## From Zero to Binary Search Tree
 ### James Kyle from Facebook
 #### https://www.youtube.com/watch?v=bM5Wfmh9i5k
-![](https://pbs.twimg.com/media/CyJ-ImOUcAAkwsO.jpg)
+![](https://pbs.twimg.com/media/Cz3GJDLUsAEX420.jpg:large)
 - Yarn
 - FlowType
 - Lerna
@@ -230,6 +230,7 @@ function(x) {
 ## Hired - The Job Search and Opportunities in Tech
 ### Steven Gong from Hired
 #### <https://youtu.be/b4y9-JZkgKI>
+![](https://pbs.twimg.com/media/CyKzgZuUoAEOCBr.jpg:large)
 
 ---
 ## Node.js version
