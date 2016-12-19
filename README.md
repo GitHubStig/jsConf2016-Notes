@@ -3,6 +3,8 @@
 # Nov 25 Friday
 ## Electron - A developer story (https://github.com/zcbenz)
 ### Cheng Zhao - Light table developer
+#### https://www.youtube.com/watch?v=JDtc1xdZ-a0
+![](https://pbs.twimg.com/media/C0AZ4V6UoAAwcj4.jpg:large)
 - started out with Atom Shell for Github, soon to be called Electron
 - talks about how to maintain and open source project like this on Github
 - review PRs one by one, answer and close all issues, guide contributors thru code reviews..
