@@ -77,6 +77,8 @@
 ---
 ## Improve your workflow
 ### Khang Hoang from Vietnam
+#### https://www.youtube.com/watch?v=-EdJzB0O23U
+![](https://pbs.twimg.com/media/C0Af8gFUAAEy8Fu.jpg:large)
 - develop stuff on React native for Australian company
 - Vision - hijacks JSON request and allows local re-get with modification
   - <http://github.com/khanghoang/vision>
