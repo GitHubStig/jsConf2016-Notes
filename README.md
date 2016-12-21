@@ -14,7 +14,7 @@
 - development documentations
 
 ---
-## Ghost in the machine (Kelsy digital Nomad)
+## How To Talk To Hardware
 ### Kelsey Breseman
 #### <https://www.youtube.com/watch?v=H52HezWtmm4>
 ![](https://pbs.twimg.com/media/CzRen8-UkAAY5x0.jpg:large)
