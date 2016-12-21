@@ -38,8 +38,9 @@
 
 ---
 ## Bootstrap a live streaming React Web App
-### HeyLi from Tencent
-![](https://pbs.twimg.com/media/CyFFBxyUUAQGOAy.jpg:large)
+### Chengxi Li from Tencent
+#### https://www.youtube.com/watch?v=RHq6bEgeZD4
+![](https://pbs.twimg.com/media/C0GB329UkAAQC3a.jpg:large)
 - Why Html5 over native
   - (I think opens links directly to 'other app' )
   - Promotion Activity
