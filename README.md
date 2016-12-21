@@ -62,6 +62,8 @@
 ---
 ## Automate your life using JS
 ### Vito Chin
+#### https://www.youtube.com/watch?v=HzjwmFv_MWk
+![](https://pbs.twimg.com/media/C0G7HxsVIAAPj72.jpg:large)
 - <https://www.npmjs.com/package/jodot>
 
 ---
