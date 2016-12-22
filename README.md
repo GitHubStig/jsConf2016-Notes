@@ -62,6 +62,7 @@
 - teach the algorithm of how to code a random maze
 - show us how to code a search algorithm (BFS, DFS)
 - show us how to code the rats to chase the player
+- source @ <https://github.com/simonswain/ratsofthemaze>
 
 ---
 ## Automate your life using JS
