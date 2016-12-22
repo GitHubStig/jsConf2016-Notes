@@ -1,6 +1,9 @@
 # <https://2016.jsconf.asia/>
 
 # Nov 25 Friday
+## Intro
+#### https://www.youtube.com/watch?v=nN-Uu6yhweo
+
 ## Electron - A developer story (https://github.com/zcbenz)
 ### Cheng Zhao - Light table developer
 #### https://www.youtube.com/watch?v=JDtc1xdZ-a0
@@ -96,9 +99,10 @@
   - XMPP
 
 ---
-## Stack Overflow - High Perf Achitecture
-### Marco Ceconi
-![](https://pbs.twimg.com/media/CyF7-u0UAAAurca.jpg:large)
+## High Performance Architecture Of Stack Overflow
+### Marco Cecconi
+#### https://www.youtube.com/watch?v=uNVlQ1yPsto
+![](https://pbs.twimg.com/media/C0ITgKIUUAAeU4W.jpg:large)
 - Durability
 - Utility
 - Beauty
@@ -283,8 +287,9 @@ function(x) {
 
 ---
 ## Evolution Of The Web
-### Dr. Alexander Gouaillard
-![](https://pbs.twimg.com/media/CyLdko4UcAAE764.jpg:large)
+### Dr. Alex Gouaillard & Daniel Burnett
+#### https://www.youtube.com/watch?v=KfDuDfXsZCs
+![](https://pbs.twimg.com/media/C0ISIP6VIAAhjab.jpg:large)
 - Web is NOT Internet
   - internet is the plumbing, with a bunch of protocols (HTTP. email, dns, ip, tcp/ip)
   - web is about content (HTML mainly)
